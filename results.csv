@@ -1,62 +1,59 @@
-ID,Nome Trabalho,,,,Q1,,Q2,,Q3
-1,Learning to Engage in Interactive Digital Art,,,,Aprendizagem por reforço,,-,,Pesquisas com os participantes e também guardando as interações no banco de dados
-2,,,,,,,-,,-
-3,Designing for Virtual Touch: A Real-Time Co-Created Online Art Experience,,,,Vídeos gerados com a interação e música,,-,,Observação da interação
-4,Painting a Picture of Accessible Digital Art,,,,Pintura,,Acessibilidade,,Entrevista
-5,Transitory Project: An Interactive Artistic Digital Installation Based on an Artificial Intelligence,,,,Imagens animadas e abstratas. Sons e poemas,,-,,Teste por observação
-6,Photo Sprayer: A VR Application for Digital Art Creation,,,,pintura virtual,,-,,entrevista qualitativa
-7,Vermillion: Oil Painting Simulation In Virtual Reality: A New Tool for Digital Artists Offering the Analog Control of Traditional Painting with the Benefits of a Virtual Environment,,,,pintura digital,,feedback tátil no programa e simplicidade,,-
-8,Where Art Meets Technology: Integrating Tangible and Intelligent Tools in Creative Processes,,,,desenho e criação artistica com objetos tangíveis,,-,,coleta em grupo - espécie de focus group
-9,,,,,,,,,
-10,,,,,,,,,
-11,,,,,,,,,
-12,,,,,,,,,
-13,,,,,,,,,
-14,,,,,,,,,
-15,,,,,,,,,
-16,,,,,,,,,
-17,,,,,,,,,
-18,,,,,,,,,
-19,,,,,,,,,
-20,,,,,,,,,
-21,,,,,,,,,
-22,,,,,,,,,
-23,,,,,,,,,
-24,,,,,,,,,
-25,,,,,,,,,
-26,,,,,,,,,
-27,,,,,,,,,
-28,,,,,,,,,
-29,,,,,,,,,
-30,,,,,,,,,
-31,,,,,,,,,
-32,,,,,,,,,
-33,,,,,,,,,
-34,,,,,,,,,
-35,,,,,,,,,
-36,,,,,,,,,
-37,,,,,,,,,
-38,,,,,,,,,
-39,,,,,,,,,
-40,,,,,,,,,
-41,,,,,,,,,
-42,,,,,,,,,
-43,,,,,,,,,
-44,,,,,,,,,
-45,,,,,,,,,
-46,,,,,,,,,
-47,,,,,,,,,
-48,,,,,,,,,
-49,,,,,,,,,
-50,,,,,,,,,
-51,,,,,,,,,
-52,,,,,,,,,
-53,,,,,,,,,
-54,,,,,,,,,
-55,,,,,,,,,
-56,,,,,,,,,
-57,,,,,,,,,
-58,,,,,,,,,
-59,,,,,,,,,
-60,,,,,,,,,
-61,,,,,,,,,
+ID,Nome Trabalho,,,,Q1,,Q2,,Q3,,BASE
+1,Learning to Engage in Interactive Digital Art,,,,Aprendizagem por reforço,,-,,Entrevista,,ACM
+2,Feeling Safe: A Study on Trust with an Interactive Robotic Art Installation,,,,-,,-,,Observação,,ACM
+3,Designing for Virtual Touch: A Real-Time Co-Created Online Art Experience,,,,Vídeos gerados com a interação e música,,-,,Observação,,ACM
+4,Painting a Picture of Accessible Digital Art,,,,Pintura,,Acessibilidade,,Entrevista,,ACM
+5,Transitory Project: An Interactive Artistic Digital Installation Based on an Artificial Intelligence,,,,Imagens animadas e abstratas. Sons e poemas,,-,,Observação,,ACM
+6,Photo Sprayer: A VR Application for Digital Art Creation,,,,pintura virtual,,-,,Entrevista,,ACM
+7,Vermillion: Oil Painting Simulation In Virtual Reality: A New Tool for Digital Artists Offering the Analog Control of Traditional Painting with the Benefits of a Virtual Environment,,,,pintura digital,,Experiência do usuário,,-,,ACM
+8,Where Art Meets Technology: Integrating Tangible and Intelligent Tools in Creative Processes,,,,desenho e criação artistica com objetos tangíveis,,-,,Grupo focal,,ACM
+9,Ordinary People: Participatory Interactive Art,,,,Peça de arte digital interativa,,,,Entrevista,,ACM
+10,Designing With Ritual Interaction: A Novel Approach to Compassion Cultivation Through a Buddhist-Inspired Interactive Artwork ,,,,Um carrocel interativo com projeções que visa despertar compaixão nas pessoas que interagem,,Experiência do usuário,,"Observação, questionário e entrevista",,ACM
+11,Hands-on: Rapid interactive application prototyping for media arts and stage performance and beyond,,,,"Produção de visualização gráfica a partir de danças, contos e sons.",,-,,Observação,,Scopus
+12,The internet of art as a site for learning and fun – Playful experiences through augmented geocaching,,,,criação de desenhos ,,Experiência do usuário,,Observação e entrevista,,Scopus
+13,Engagement and interaction in participatory sound art,,,,produção musical,,-,,-,,Scopus
+14,Eyes: Iris sonification and interactive biometric art,,,,Criação de sons a partir da iris de cada pessoa,,-,,Questionário,,Scopus
+15,Though Miles Apart: An Interactive Art Installation That Evokes Nostalgia,,,,criação de narrativas por meio de projeções ,,Experiência do usuário,,Observação,,ACM
+16,"Machine Learning Education for Artists, Musicians, and Other Creative Practitioners",,,,Reject,,Reject,,Reject,,ACM
+17,Making an Interactive Dance Piece: Tensions in Integrating Technology in Art,,,,Dança,,-,,Entrevista,,ACM
+18,"""Default""Interactiveart #Audiencexperience",,,,Fotos e vídeos,,Acessibilidade,,Observação,,ACM
+19,AI + Art = Human,,,,Reject,,Reject,,Reject,,ACM
+20,Painting an Apple with an Apple: A Tangible Tabletop Interface for Painting with Physical Objects,,,,Pintura,,Usabilidade,,Entrevista,,ACM
+21,Designing embodied interactions for informal learning: Two open research challenges,,,,Reject,,Reject,,Reject,,Scopus
+22,Hands-on: Rapid interactive application prototyping for media arts and performing arts in illimitable space,,,,"Produção de visualização gráfica a partir de danças, contos e sons.",,-,,Observação,,Scopus
+23,The work of art in the age of artificial intelligence: What artists can teach us about the ethics of data practice,,,,Reject,,Reject,,Reject,,Scopus
+24,How do Dancers Want to Use Interactive Technology?: Appropriation and Layers of Meaning beyond Traditional Movement Mapping,,,,Dança,,-,,Grupo focal,,Scopus
+25,Dataflow programming and processing for artists and beyond,,,,Reject,,Reject,,Reject,,Scopus
+26,Teaching art and design in a digital age: challenges facing Ugandan teacher educators,,,,Reject,,Reject,,Reject,,Scopus
+27,Usability evaluation for the integration of library data analysis and an interactive artwork by sensing technology,,,,"Livros, biblioteca",,Usabilidade,,Questionário,,Scopus
+28,Paint with Your Mind: Designing EEG-based Interactive Installation for Traditional Chinese Artworks,,,,pintura,,-,,Entrevista,,Scopus
+29,Intermodulation: Improvisation and Collaborative Art Practice for HCI,,,,musica,,-,,Entrevista e Observação,,ACM
+30,"The Visual Performance of Technology and Philosophy in ""Contemporary Art""",,,,Reject,,Reject,,Reject,,ACM
+31,Creator-Centric Study of Digital Art Exhibitions on Interactive Public Displays,,,,exibição artistica,,-,,Questionário,,ACM
+32,Art Installations: A Study of the Topology of Collective Co-Located Interactions ,,,,Reject,,Reject,,Reject,,ACM
+33,ARBOR: (Re)Discovering Writing Interaction with 1st Grade Students,,,,Escultura interativa,,Experiência do usuário,,Observação,,ACM
+34,3D Printing Objects as Installation Art: Standing Humanity: 3D Yan Character,,,,ambiente de interação artistico com objetos 3D,,Experiência do usuário,,Observação,,ACM
+35,Audience Participation in Interactive Art Systems: Is Instructional Signage a Necessary Evil?,,,,Peça,,-,,Observação e Questionário,,ACM
+36,Designing for Socially Interactive Systems,,,,Dança,,-,,Entrevista,,ACM
+37,Framing Fraught Topics through Tangible Multi-Display Engagement with Live News,,,,Arte em museu por meio de objetos tangíveis,,-,,Observação,,ACM
+38,Supporting Expressive Procedural Art Creation through Direct Manipulation,,,,ilustração digital,,Acessibilidade,,Entrevista,,ACM
+39,"Building Mood, Building Community: Usage Patterns of an Interactive Art Installation",,,,Escultura interativa,,Experiência do usuário,,Entrevista,,ACM
+40,Arty Portfolios: Manifesting Artistic Work in Interaction Design Research,,,,Reject,,Reject,,Reject,,ACM
+41,"Vista: A Visually, Socially, and Temporally-Aware Model for Artistic Recommendation",,,,Reject,,Reject,,Reject,,ACM
+42,Weather Report: A Site-Specific Artwork Interweaving Human Experiences and Scientific Data Physicalization,,,,arte interativa com balões,,-,,Interação com o sistema,,IEEE
+43,Visitor experiences in The Museum of Applied Arts of Budapest : Interactions with ColourMirror,,,,Interação para relacionar com artigos do museu,,-,,Entrevista,,IEEE
+44,An Open-Source Programming Language-Based Interactive Device: Popular Science of the Five Cereals for Children,,,,Arte de instalação interativa,,Acessibilidade,,Interação com o sistema,,IEEE
+45,Digital Artivism and Collaborative Artistic Practice: Usage in a School Environment as a Citizenship Development Tool,,,,artivismo digital,,-,,Entrevista,,ACM
+46,Artistic creation in virtual reality for art therapy: A qualitative study with expert art therapists,,,,criação artística com realidade virtual,,-,,Entrevista,,Scopus
+47,Interactive multimedia installation art development using recycled input and sensing devices,,,,Reject,,Reject,,Reject,,Scopus
+48,Balancing tradeoffs in the design of an interactive art installation on surveillance and Big Data,,,,Reject,,Reject,,Reject,,Scopus
+49,FlexStylus: A deformable stylus for digital art,,,,Desenho digital,,-,,-,,Scopus
+50,Hands-on: Rapid interactive application prototyping for media arts and stage production,,,,Reject,,Reject,,Reject,,Scopus
+51,Using BLE beacons to simulate proxemic surveillance for an interactive art installation,,,,Instalação de arte digital interativa,,-,,Entrevista,,Scopus
+52,Real-time 3D fluid simulation digital art using BCI,,,,arte digital interativa por meio de impulsos no couro cabeludo,,-,,Observação,,Scopus
+53,Designing mobile deformable controls for creation of digital art,,,,Pintura,,Experiência do usuário,,Entrevista,,Scopus
+54,DreamScope: Evaluating interactive 360° virtual reality in a physical narrative art installation,,,,Narrativa ,,-,,Questionário,,Scopus
+55,"The process of co-creating the interface for VENSTER, an interactive artwork for nursing home residents with dementia",,,,co-creating the system,,Usabilidade,,Observação,,Scopus
+56,Somatic Sonification in Dance Performances. from the Artistic to the Perceptual and Back,,,,Dança e sonificação,,-,,Observação,,Scopus
+57,Let's Resonate: How to Elicit Improvisation and Letting Go in Interactive Digital Art,,,,Dança com realidade virtual,,Experiência do usuário,,Entrevista,,Scopus
+58,Exploring Relationships between Museum Artefacts through Spatial Interaction,,,,uso do celular como scanner para entender sobre peças dos museus,,-,,Grupo focal,,ACM
